@@ -1,0 +1,46 @@
+
+*{
+	background-color: #fafafa ;	
+}
+
+h1{
+	font-size: 30;
+	font-weight: bold;
+	text-align: center;
+	color: red;
+	background-color: yellow;
+	border-radius: 5px;
+}
+
+nav {
+	text-align: center;
+	background-color: green;
+	color: white;
+	background-color: green;
+	border-radius: 5px;
+	padding: 7px;
+	
+}
+
+a {
+	text-align: center;
+	color: white;
+	background-color: green;
+}
+
+h2 {
+	text-align: center;
+	opacity: 0.5;
+	background-color: pink;
+	color: purple;
+	border-style: dotted;
+	border-color: purple;
+}
+
+table tbody td{
+	border: 3px solid black;
+}
+
+table {
+	border-collapse: collapse;
+}
